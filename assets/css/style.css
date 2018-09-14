@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+}
+
+header {
+	background-color:#a2223b;
+	padding:84px;
+	text-align:center;
+}
+
+header h1{
+	font-family: 'El Rio Lobo'; 
+	color: #f4b03e;
+	font-weight: 400;
+	margin: 0;
+}
+header h2{
+	color:white;
+	text-align: center;
+	margin: 3px 0 0;
+}
+.emperador {
+	background-color:#090EFF;
+	padding: 70px;
+	text-align: center;
+
+}
+
+.dialogo {
+	text-align: right;
+	background-image: url('../images/cuzco2.jpg');
+	background-size: 100% auto;
+	min-height: 500px;
+	background-position: center;
+}
+.dialogo h3 {	
+	font-family: 'El Rio Lobo';
+	color: #f4b03e;
+	text-align: right;
+	font-size:30px;
+}
+.dialogo p{
+	color: white;
+	font-size: 26px;
+}
+
+h4{
+	font-family: 'El Rio Lobo';
+	text-align: center;
+	padding: 8px;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 400;
+}
+
